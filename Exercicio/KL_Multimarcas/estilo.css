@@ -1,0 +1,36 @@
+@charset "UTF8";
+
+h1{
+	text-align: center;
+	color: #0101DF;
+	font-size: 40px;
+}
+
+h2{
+	text-align: center;
+	color: #0101DF;
+	font-size: 40px;
+}
+p{
+	text-align: center;
+	text-indent: 50px;
+	font-size: 18px;
+	margin: 0px 200px 0px 200px;
+	color: black;
+}
+
+ul{
+	list-style: none;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+body{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url(https://s3-sa-east-1.amazonaws.com/s3-r2t/Sincomercio/Images/6197ee872f94a.jpg);
+}
+
+ol{
+	margin: 0px 250px 0px 250px;
+}
