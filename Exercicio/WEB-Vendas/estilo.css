@@ -1,0 +1,36 @@
+@charset "UTF8";
+
+h1{
+	text-align: center;
+	color: #FF0000;
+	font-size: 40px;
+}
+
+h2{
+	text-align: center;
+	color: black;
+	font-size: 40px;
+}
+p{
+	text-align: justify;
+	text-indent: 50px;
+	font-size: 18px;
+	margin: 0px 200px 0px 200px;
+	color: black;
+}
+
+ul{
+	list-style: none;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+body{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url(https://i.pinimg.com/originals/5f/24/d9/5f24d9a65bf84f13200bc6f549d56b1a.jpg);
+}
+
+ol{
+	margin: 0px 250px 0px 250px;
+}
