@@ -1,0 +1,93 @@
+#header_topo {
+	width: 100%;
+	height: 50px;
+	top: 0px;
+	float: left;
+	background-color: blue;
+
+}
+aside {
+	width: 20%;
+	height: 500px;
+	float: left;
+	background-color: darkred;
+	text-align: center;
+	color: white;
+
+}
+nav{
+	width: 20%;
+	height: 500px;
+	float: right;
+	background-color: darkred;
+	color: white;
+	text-align: center;
+
+}
+section {
+		width: 60%;
+		height: 500px;
+		float: left;
+}
+#header_sec {
+	width: 100%;
+	height: 15%;
+	top: 0;
+	float: left;
+	background-color: white;
+	color: darkred;
+	text-align: center;
+}
+article {
+	width: 100%;
+	height: 200%;
+	float: left;
+	background-color: white;
+	color: darkred;
+	text-align: center;
+}
+#footer_normal {
+	width: 100%;	
+	height: 80px;
+	float: left;
+	bottom: 0;
+	background-color: white;
+	text-align: center;
+
+
+}
+
+#painel2{
+			top: 0;
+			left: 0;
+			width: 100%;
+		}
+
+		#painel2 ul {
+			margin: 0px;
+			background-color: darkred;
+			list-style: none;
+			padding: 20px;
+			text-align: center;
+			font-size: 22px;
+
+		}
+		#painel2 ul li {
+			display: inline-block;
+		}
+		#painel2 ul li a {
+			padding: 75px;
+			color: white;
+			text-decoration: none;
+		}
+		#painel2  ul li a:hover{
+			color: yellow;
+			background-color: white;
+		}
+
+		p{
+	text-align: justify;
+	text-indent: 50px;
+	font-size: 22px;
+	color: black;
+}
